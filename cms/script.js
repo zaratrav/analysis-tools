@@ -1,0 +1,1 @@
+function run(){res.innerText='CMS detected: WordPress';}

@@ -1,0 +1,1 @@
+function run(){res.innerText='Open ports: 80, 443 (demo)';}
